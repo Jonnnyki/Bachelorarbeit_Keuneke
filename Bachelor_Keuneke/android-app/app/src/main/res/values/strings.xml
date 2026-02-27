@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bachelor Thesis App</string>
+    <string name="ba_test">This app was developed as a part of my bachelor thesis.\nIts purpose is to record, label, and store bio-signals using the device sensors. \nData can also be analyzed in real time during recording to classify user actions.</string>
+    <string name="start">Recording</string>
+    <string name="ki">Analysis</string>
+    <string name="stop">Stop</string>
+    <string name="selectedSensorsPlainText">Selected Sensors:</string>
+    <string name="labelsIntro">Set a label and choose at least one sensor for your recording</string>
+    <string name="labelsInput">Set label</string>
+    <string name="next">Confirm</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_analyzing_recording">AnalyzingRecording</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="currently_recording">Currently recording.</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
